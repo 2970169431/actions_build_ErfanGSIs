@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-26c619958abbe0ca3891a23fff28c3f9/component-ota/22/04/29/38888981f0d542b5873656b90f233208.zip
+  ROM_URL: https://ztcqy-my.sharepoint.com/personal/zxh_ztcqy_onmicrosoft_com/_layouts/52/download.aspx?share=EW_VfNZblThPoFDLSxd5pmQB61s5A3YKBxEnyIMoHcCvMw
   ROM_NAME: ONEPLUS 7Pro Coloros12.1(2)
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
